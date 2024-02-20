@@ -1,5 +1,5 @@
                                                             👋 Hi, I’m Robel Fessehai
-                                                            FullStack Developer of Revature
+                                                          FullStack Developer of Revature
 - 👀 I’m interested in becoming a Front End Developer
 - 🌱 I’m currently learning: AWS, Microsoft Azure, Docker, Sanity, Appwrite
 - 💞️ I’m looking to collaborate with Experienced Developers

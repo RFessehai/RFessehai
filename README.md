@@ -2,7 +2,7 @@
 <h3 align="center">FullStack Developer of Revature</h3>
 <br>
 
-- 👀 I’m interested in becoming a Front End Developer
+- 👀 I’m interested in more Software Developer Oppurtunities
 
 - 🌱 I’m currently learning: AWS, Microsoft Azure, Docker, Sanity, Appwrite
  
